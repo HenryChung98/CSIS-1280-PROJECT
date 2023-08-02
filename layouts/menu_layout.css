@@ -32,3 +32,7 @@
     flex-wrap: wrap;
     gap: 2%;
 }
+
+.menu_item_content{
+    min-width: 430px;
+}
